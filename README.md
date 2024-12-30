@@ -40,13 +40,6 @@ The goal of this project was to simulate a real-world scenario where data analys
 -   Python  : For data cleaning and preprocessing.  
 -   Excel  : For initial exploration of raw datasets.  
 
----
-
-## Repository Contents
-- `data/`: Contains raw and cleaned datasets used in the analysis.  
-- `visuals/`: Includes Power BI screenshots of the visualizations.  
-- `scripts/`: Python scripts for data cleaning and analysis.  
-- `reports/`: Final presentation and supplementary documents.  
 
 ---
 
