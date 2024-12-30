@@ -53,4 +53,4 @@ The goal of this project was to simulate a real-world scenario where data analys
 ## How to Use
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/Tata-Data-Visualization-Simulation.git
+   git clone https://github.com/AdvaitShelatkar/Tata_Forage.git
